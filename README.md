@@ -23,7 +23,7 @@ Quick start options:
 - Clone the repo: `git clone https://github.com/creativetimofficial/awesome-landing-page.git`.
 
 
-### What's included
+### What's includedw
 
 Within the download you'll find the following directories and files:
 
